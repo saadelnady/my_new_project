@@ -28,7 +28,7 @@ Applying Stashed Changes:
 Pop the most recent stash and apply those saved changes to your working directory. This action also removes the changes from the stash.
 Getting a Specific Tag:
 
-# git tag 1.7:
+# git tag :
 
 List all tags in your local repository, and specify the tag name (e.g., "1.7") to view a specific tag.
 Deleting a Tag Remotely:
